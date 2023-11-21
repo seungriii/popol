@@ -2,7 +2,7 @@
 마음에 드는 데모 페이지를 고르고, github 페이지로 만들어보세요 :)
 
 ## 데모 페이지 확인
-- [DevFoilo]([https://seungriii.github.io/popol/devfolio-master/)
+- [DevFoilo](https://seungriii.github.io/popol/devfolio-master/)
 - [noah-master](https://seungriii.github.io/popol/noah-master/)
 - [resume-2](https://seungriii.github.io/popol/resume-2-master/)
 - [ronin-gh-pages](https://seungriii.github.io/popol/ronin-gh-pages/)
